@@ -7,7 +7,7 @@ def my_each(array)
   i += 1
 
   else
-  "Nothing there"
+  
   end
   array
 end
